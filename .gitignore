@@ -6,3 +6,5 @@ yarn-error.log
 /test/*coverage
 /test/coverage*
 /.chrome
+/HTML5Application/nbproject/private/
+/nbproject/private/
